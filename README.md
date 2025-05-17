@@ -7,3 +7,5 @@ Example control system analysis and design applications<br>
 State Space System
 * Step Response
 * Impulse Response
+* Controllability
+* Observability
